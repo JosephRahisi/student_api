@@ -10,5 +10,5 @@ This is a simple API for managing students' data.
 
 ## Usage
 
-- Use the `/students` endpoint to view the list of students.
-- Use the `/subjects` endpoint to view the list of students
+- Use the `http://localhost:8000/students` endpoint to view the list of students.
+- Use the `http://localhost:8000/subjects` endpoint to view the list of students
